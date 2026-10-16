@@ -1,0 +1,23 @@
+{
+  "sources": {
+    "about": "https://hakkiizmirli.com/en/about-us",
+    "contact": "https://hakkiizmirli.com/en/contact",
+    "home": "https://hakkiizmirli.com/",
+    "images": [
+      "https://hakkiizmirli.com/upload/6/dr-hakki-izmirli-750x0.jpg",
+      "https://hakkiizmirli.com/upload/2/dsc-46jj73-1-1903x1269.jpg"
+    ]
+  },
+  "procedure_sources": {
+    "rhinoplasty": "https://hakkiizmirli.com/en/rhinoplasty",
+    "revision-rhinoplasty": "https://hakkiizmirli.com/en/secondary-rhinoplasty",
+    "breast-augmentation": "https://hakkiizmirli.com/en/breast-augmentation",
+    "breast-reduction": "https://hakkiizmirli.com/en/breast-reduction",
+    "abdominoplasty": "https://hakkiizmirli.com/en/abdominoplasty-tummy-tuck",
+    "blepharoplasty": "https://hakkiizmirli.com/en/eye-lid-surgery",
+    "gynecomastia": "https://hakkiizmirli.com/en/gynecomastia-surgery",
+    "liposuction": "https://hakkiizmirli.com/en/body-aesthetic"
+  },
+  "publication_count": 12,
+  "page_count": 120
+}
